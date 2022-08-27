@@ -1,4 +1,5 @@
-//Movement Animation to happen
+//This is JavaScript for amazing 3d effect
+//Movement Animation to happen LM
 const card = document.querySelector(".card");
 const container = document.querySelector(".container");
 //Items
